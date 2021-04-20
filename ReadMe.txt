@@ -35,7 +35,7 @@ ATTiny85 Pinout:
 2 - Solar IN
 3 - PIR IN
 4 - GND
-5 - SNDMSG (conntected to one input of "Mark's Bench" latch circuit.)
+5 - SNDMSG (connected to one input of "Mark's Bench" latch circuit.)
 6 - LED Light OUT
 7 - N/C (could be used for button?)
 8 - VCC (from 18650)
