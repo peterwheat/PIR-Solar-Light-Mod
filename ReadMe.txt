@@ -8,7 +8,7 @@ Background
     https://www.youtube.com/watch?v=DH4zTmrdc1o
 
 N.B. The circuits in these lights varey.  
-Some have a an dedicated bettery overcharge protection chip, 
+Some have a dedicated bettery overcharge protection chip, 
 Some have just one chip the does everything, and switchs off charging via a transistor.
 Some have no on board protection, these may or may not have protection on the battery.
 If not, you will need to get a 1C 18650 battery protection pcb off ebay.
