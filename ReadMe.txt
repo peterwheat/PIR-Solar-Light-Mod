@@ -58,7 +58,7 @@ For Mark's Bench Latch Circuit see:
 https://marksbench.com/electronics/esp32-cam-low-power-trail-camera/
 I found IRLZ44N "logic level" mosfet to be a much better choice (no opto-couplers required).
 
-The ESP 01 is powered via an AMS1117 with two cap (IN 10uF, OUT: 22uF).
+The ESP 01 is powered via an AMS1117 with two caps (IN 10uF, OUT: 22uF).
 
 Install program: ESP01
 
